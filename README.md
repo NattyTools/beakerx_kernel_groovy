@@ -14,7 +14,9 @@
     limitations under the License.
 -->
 
-# BeakerX: Beaker extensions for Jupyter - Groovy kernel (UPDATE to 3.0.8)
+# BeakerX: Beaker extensions for Jupyter - Groovy kernel (3.0.8)
+
+This fork is an update to groovy kernel to work with groovy 3.0.8
 
 BeakerX is a collection of JVM kernels and interactive widgets for
 plotting, tables, autotranslation, and other extensions to Jupyter
